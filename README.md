@@ -26,6 +26,7 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 
 ## Assignments
 You can upload your assignments [here](https://drive.google.com/drive/folders/1WqhTPNE3rZiwCaWQ7h_FG5WeZaDJs5s9?usp=sharing).
+Week 1 [Comparatives and Superlatives.docx](https://github.com/AldoCC21/EnglishBootcamp/files/7629946/Comparatives.and.Superlatives.docx)
 
 ## Feedback
 At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/yrWuI78T) to tell us more about your experience.
