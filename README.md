@@ -27,7 +27,7 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 ## Assignments
 You can upload your assignments [here](https://drive.google.com/drive/folders/1WqhTPNE3rZiwCaWQ7h_FG5WeZaDJs5s9?usp=sharing).
 
-[Assignment 1](https://github.com/AldoCC21/EnglishBootcamp/files/7629946/Comparatives.and.Superlatives.docx)
+* [Assignment 1](https://github.com/AldoCC21/EnglishBootcamp/files/7629946/Comparatives.and.Superlatives.docx)
 * **Assignment 2** Record yourself speaking for 1 minute about something related to your job. Use at least 2 business phrases from the class document.
 
 ## Feedback
