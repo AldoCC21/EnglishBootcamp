@@ -26,6 +26,8 @@ In this bootcamp, you get access to one personzalized session a week. You can sc
 
 ## Assignments
 You can upload your assignments [here](https://drive.google.com/drive/folders/1WqhTPNE3rZiwCaWQ7h_FG5WeZaDJs5s9?usp=sharing).
+* **Assignment 2** Record yourself speaking for 1 minute about something related to your job. Use at least 2 business phrases from the class document.
+* 
 
 ## Feedback
 At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/yrWuI78T) to tell us more about your experience.
@@ -38,3 +40,4 @@ You can find the recordings of the sessions in [this link](https://drive.google.
 
 ## Help
 Please reach out to your Slack Workspace to ask for any help.
+* **Business Phrases Flashcards** Check them here (https://quizlet.com/gt/652810283/business-phrases-english-idioms-flash-cards/)
