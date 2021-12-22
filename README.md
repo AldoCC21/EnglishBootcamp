@@ -29,6 +29,16 @@ You can upload your assignments [here](https://drive.google.com/drive/folders/1W
 
 * [Assignment 1](https://github.com/AldoCC21/EnglishBootcamp/files/7629946/Comparatives.and.Superlatives.docx)
 * **Assignment 2** Record yourself speaking for 1 minute about something related to your job. Use at least 2 business phrases from the class document.
+* **Assignment 3** Watch the YouTube video: [The Super Mario Effect - Tricking Your Brain into Learning More] (https://www.youtube.com/watch?v=9vJRopau0g0)
+Write down any words you don’t know, you can look up the definitions yourself or you can review them on your individual sessions.
+Write one paragraph (minimum 4 sentences) talking about the video, you can give any opinion you want!
+* **Assignment 4** Record yourself for 50 - 90 seconds talking about a subject of your own interest. Your paragraph must have the following characteristics:
+ - Use “good” and “well” at least one time each.
+ - Add a sense verb followed by an adjective.
+ - “Feels great”   
+ - Avoid unnecessary prepositions.
+ - End at least one sentence with a preposition.
+* **Assignment 5** Search the internet for 10 words related to your field of work, and write down both the word and definition in your glossary. We’ll use these to practice on our individual sessions! If you don’t know or can’t find the word in English, write the Spanish equivalent of the word, but the definitions must be in English.
 
 ## Feedback
 At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/yrWuI78T) to tell us more about your experience.
