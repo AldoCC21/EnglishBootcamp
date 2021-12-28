@@ -39,6 +39,7 @@ Write one paragraph (minimum 4 sentences) talking about the video, you can give 
  - Avoid unnecessary prepositions.
  - End at least one sentence with a preposition.
 * **Assignment 5** Search the internet for 10 words related to your field of work, and write down both the word and definition in your glossary. We’ll use these to practice on our individual sessions! If you don’t know or can’t find the word in English, write the Spanish equivalent of the word, but the definitions must be in English.
+*  [Assignment 6](https://github.com/AldoCC21/EnglishBootcamp/files/7782413/verb-tenses.pdf)
 
 ## Feedback
 At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/yrWuI78T) to tell us more about your experience.
